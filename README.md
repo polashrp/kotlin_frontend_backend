@@ -1,4 +1,4 @@
-# kotlin_frontend_backend
+# kotlin frontend backend
 It's kotlin backend and frontend project with ktor framework
 
 
